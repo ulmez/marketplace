@@ -1,0 +1,12 @@
+2014-02-17 10:38:02,306 ERROR [main] - se.gozacke.logg.Log4J.main 16 - java.lang.Exception: New Exception
+2014-02-17 11:38:09,107 ERROR [main] - se.gozacke.main.Main.main 115 - se.gozacke.data.StorageException: Column 'product_name2' not found.
+2014-02-17 13:37:46,790 ERROR [main] - se.gozacke.main.Main.main 115 - se.gozacke.data.StorageException: Column 'product_name2' not found.
+2014-02-17 13:41:27,740 ERROR [main] - se.gozacke.main.Main.main 114 - se.gozacke.data.StorageException: Column 'product_name2' not found.
+se.gozacke.data.StorageException: Column 'product_name2' not found.
+	at se.gozacke.product.MySQLProductRepository.getAllProducts(MySQLProductRepository.java:55)
+	at se.gozacke.ecommerce.ECommerce.getAllProducts(ECommerce.java:120)
+	at se.gozacke.main.Main.main(Main.java:110)
+2014-02-17 13:46:33,403 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Column 'product_name2' not found.
+2014-02-17 14:09:57,375 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Column 'product_name2' not found.
+2014-02-17 18:06:31,722 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Data truncated for column 'rrp' at row 1
+2014-02-17 22:53:30,194 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)

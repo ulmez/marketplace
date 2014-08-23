@@ -1,0 +1,4 @@
+2014-02-19 08:34:43,661 ERROR [main] - se.gozacke.main.Main.main 78 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)
+2014-02-19 08:36:12,398 ERROR [main] - se.gozacke.main.Main.main 78 - se.gozacke.data.StorageException: Column 'rrp2' not found.
+2014-02-19 10:17:58,882 ERROR [main] - se.gozacke.main.Main.main 78 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)
+2014-02-19 10:18:16,826 ERROR [main] - se.gozacke.main.Main.main 78 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)

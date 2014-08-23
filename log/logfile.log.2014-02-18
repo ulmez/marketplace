@@ -1,0 +1,2 @@
+2014-02-18 13:48:58,148 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)
+2014-02-18 13:49:37,441 ERROR [main] - se.gozacke.main.Main.main 469 - se.gozacke.data.StorageException: Access denied for user 'flogger'@'localhost' (using password: YES)
